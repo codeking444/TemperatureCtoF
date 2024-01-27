@@ -1,2 +1,2 @@
 # TemperatureCtoF
-this program is show how to convert temperature Celsius to Fahrenheit 
+this program is show how to convert temperature from Celsius to Fahrenheit 
